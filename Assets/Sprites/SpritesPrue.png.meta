@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 0edc1c5028fd9fb4387f804498604361
+timeCreated: 1447025268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enem1v
+    21300002: Enem1bg
+    21300004: PlayerR
+    21300006: PlayerA
+    21300008: Enem2g
+    21300010: Stone1
+    21300012: Enem1r
+    21300014: Enem1a
+    21300016: PlayerG
+    21300018: Enem2v
+    21300020: Enem2bg
+    21300022: Brick1
+    21300024: Enem1g
+    21300026: PlayerV
+    21300028: PlayerBG
+    21300030: Enem2r
+    21300032: Enem2a
+    21300034: tree1
+    21300036: tree2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enem1v
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 370
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem1bg
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 368
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerR
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 369
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerA
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 370
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem2g
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 363
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stone1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 370
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem1r
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem1a
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerG
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 194
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem2v
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 193
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem2bg
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 186
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 219
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem1g
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerV
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerBG
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 14
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem2r
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 15
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enem2a
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 8
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree1
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 8
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tree2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 73
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
